@@ -1,0 +1,29 @@
+Pasos para la instalacion de Virtual Box 
+
+.-Entrar al sitio oficial de Virtual Box
+.-descargar el archivo ejecutable .exe 
+.-Ejecutar el archivo .exe
+.-Presionar Next hasta que comience la instalacion
+
+Descarga de Ubuntu 16
+.-Entrar a ubuntu.com 
+.-Seleccionar la version ubuntu-16.04.7-desktop-amd64
+.-Iniciar la descarga del archivo y no ejecutarlo
+.-Abrir Virtual Box y asignar una cierta cantidad de memoria ram
+.-Preferiblemente de 4 a 6 gb de ram y asignar el archivo con la iso de Ubuntu 
+
+Si quisieramos vincular este documento a nuestro repositorio de git hub:
+.-Entramos al sitio de VS Code 
+.-Instalamos el ejecutable
+.-Ejecutamos el .exe e Instalamos
+.-Abrimos el acceso directo o la aplicacion 
+.-Seleccionamos la opcion correspondiente para clonar nuestro repositorio
+.-Seleccionamos y admitimos el acceso de VS Code a nuestro Git hub
+.-Creamos nuestro documento con las opciones de folder y file
+.-Ahora, seleccione la opcion source control
+.-Presione commit
+.-Dirijase a los tres puntos en la esquina superior izquierda 
+.-Seleccione terminal 
+.-Coloque los codigos:
+git config --global user.name "SU NOMBRE"
+git config --global user.email "SU GMAIL"
